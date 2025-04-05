@@ -4,7 +4,7 @@ This project presents the design and implementation of **Fire-Bot**, an image pr
 
 ---
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/strutural_view.jpeg" alt="github-small" width="80%">
+  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/strutural_view.jpeg" alt="github-small" width="60%">
 </div>
 
 
