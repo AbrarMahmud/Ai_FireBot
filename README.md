@@ -4,7 +4,7 @@ This project presents the design and implementation of **Fire-Bot**, an image pr
 
 ---
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/strutural_view.jpeg" alt="github-small" width="60%">
+  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/strutural_view.jpeg" alt="github-small" width="50%">
 </div>
 
 
@@ -18,6 +18,9 @@ This project presents the design and implementation of **Fire-Bot**, an image pr
 - Efficient deployment of **FOMO (Fast Object Detection Model)** on edge hardware.
 
 ---
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/fire_bot.gif" alt="github-small" width="50%">
+</div>
 
 ## 📂 Repository Structure
 
