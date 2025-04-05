@@ -3,6 +3,10 @@
 This project presents the design and implementation of **Fire-Bot**, an image processing-based autonomous firefighting robot. The system addresses the complex challenge of real-time fire detection and response using a low-powered microcontroller, onboard stereoscopic cameras, PID-controlled motion, and integrated IMU feedback for precise mobility. The solution brings together **machine learning**, **control systems**, **real-time image processing**, and **robotics** in a single cohesive system.
 
 ---
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/Ai_FireBot/blob/master/source%20code/strutural_view.jpeg" alt="github-small" width="80%">
+</div>
+
 
 ## 🚀 Project Highlights
 
