@@ -1,4 +1,4 @@
-# 🔥 Fire-Bot: FOMO-vision model based autonomous robot for fire detection and suppression
+# 🔥 Edge-Optimized Firefighting Robot: Autonomous Navigation via PID Control and Fire Detection with FOMO Vision
 
 This project presents the design and implementation of **Fire-Bot**, an image processing-based autonomous firefighting robot. The system addresses the complex challenge of real-time fire detection and response using a low-powered microcontroller, onboard stereoscopic cameras, PID-controlled motion, and integrated IMU feedback for precise mobility. The solution brings together **machine learning**, **control systems**, **real-time image processing**, and **robotics** in a single cohesive system.
 
