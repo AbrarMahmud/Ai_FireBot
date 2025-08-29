@@ -97,21 +97,6 @@ Fire-Bot/
     - Use Serial Monitor to view distance estimates and PID outputs
     - Tune PID gains as needed
 
----
-
-## 📄 Report
-
-You can find the full project documentation including:
-
-- System architecture
-- ML model training & optimization
-- PID tuning
-- Stereo calibration
-- Experimental results
-
-In the [`report/Fire-Bot_Project_Report.pdf`](./report/Fire-Bot_Project_Report.pdf) file.
-
----
 
 ## 💡 Future Improvements
 
