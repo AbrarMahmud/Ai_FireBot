@@ -97,13 +97,6 @@ Fire-Bot/
     - Use Serial Monitor to view distance estimates and PID outputs
     - Tune PID gains as needed
 
-
-## 💡 Future Improvements
-
-- Thermal camera integration
-- SLAM-based navigation
-- Wireless streaming of camera data
-
 ---
 
 ## 🤝 Contributing
