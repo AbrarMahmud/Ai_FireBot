@@ -1,5 +1,12 @@
 # 🔥 Edge-Optimized Firefighting Robot: Autonomous Navigation via PID Control and Fire Detection with FOMO Vision
-
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/document/11355530">
+    <img src="https://img.shields.io/badge/📄%20Read%20Paper-IEEE%20Xplore-blue?style=for-the-badge" alt="Read Paper">
+  </a>
+  <a href="https://doi.org/10.1109/EICT68394.2025.11355530">
+    <img src="https://img.shields.io/badge/DOI-10.1109/EICT68394.2025.11355530-green?style=for-the-badge" alt="DOI">
+  </a>
+</p>
 This project presents the design and implementation of **Fire-Bot**, an image processing-based autonomous firefighting robot. The system addresses the complex challenge of real-time fire detection and response using a low-powered microcontroller, onboard stereoscopic cameras, PID-controlled motion, and integrated IMU feedback for precise mobility. The solution brings together **machine learning**, **control systems**, **real-time image processing**, and **robotics** in a single cohesive system.
 
 ---
@@ -105,6 +112,21 @@ Feel free to open issues or contribute to the codebase!
 
 ```bash
 git clone https://github.com/AbrarMahmud/Ai_FireBot.git
+```
+## 📖 Citation
+
+If you use this work, please cite:
+```bibtex
+@INPROCEEDINGS{11355530,
+  author={Mahmud, Kazi Abrar and Ahmed, Fahim and Siddiq, Rayhan and Sobhan, Shadman},
+  booktitle={2025 7th International Conference on Electrical Information and Communication Technology (EICT)}, 
+  title={Edge-Optimized Firefighting Robot: Autonomous Navigation via PID Control and Fire Detection with FOMO Vision}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={PI control;Navigation;Microcontrollers;Stereo image processing;Machine learning;Water pumps;Real-time systems;PD control;Autonomous robots;Testing;Autonomous robot;fire detection;ESP32-CAM;machine learning;PID control;stereoscopic vision;disaster management},
+  doi={10.1109/EICT68394.2025.11355530}}
 
 
 
